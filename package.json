@@ -1,0 +1,20 @@
+{
+  "name": "tic-tac-toe_web",
+  "version": "1.0.0",
+  "description": "tic-tac-toe_webgame with both 2-player and 1-player(AI mode)",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-e-l-u-h-a-n/tic-tac-toe_web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-e-l-u-h-a-n/tic-tac-toe_web/issues"
+  },
+  "homepage": "https://github.com/m-e-l-u-h-a-n/tic-tac-toe_web#readme"
+}
